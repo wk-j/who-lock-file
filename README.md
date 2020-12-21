@@ -13,5 +13,5 @@ wk-who-lock resource/vim.pdf
 ## Development
 
 ```bash
-dotnet pack src/WhoLock /p:Version=0.0.1 -o __publish__
+dotnet pack src/WhoLock /p:Version=0.0.1 -o .publish
 ```
