@@ -1,4 +1,4 @@
-## Who Lock
+## Who Lock File
 
 [![Actions](https://github.com/wk-j/who-lock-file/workflows/NuGet/badge.svg)](https://github.com/wk-j/who-lock-file/actions)
 [![NuGet](https://img.shields.io/nuget/v/wk.WhoLock.svg)](https://www.nuget.org/packages/wk.WhoLock)
