@@ -7,7 +7,8 @@
 ## Usage
 
 ```bash
-wk-who-lock <FilePath>
+> dotnet tool install -g wk.WhoLock
+> wk-who-lock <FilePath>
 ```
 
 ![](resource/screen.png)
