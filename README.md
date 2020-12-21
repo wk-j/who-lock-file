@@ -7,8 +7,10 @@
 ## Usage
 
 ```bash
-wk-who-lock resource/vim.pdf
+wk-who-lock <FilePath>
 ```
+
+![](resource/screen.png)
 
 ## Development
 
