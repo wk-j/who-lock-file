@@ -5,6 +5,7 @@
         <TargetFramework>net5.0</TargetFramework>
         <ToolCommandName>wk-who-lock</ToolCommandName>
         <PackAsTool>true</PackAsTool>
+        <PackageId>wk.WhoLock</PackageId>
     </PropertyGroup>
 
 </Project>
